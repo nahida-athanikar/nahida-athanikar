@@ -1,3 +1,5 @@
+![1741442365859](https://github.com/user-attachments/assets/9350ef6b-bafd-4397-b498-9b8a2a68aae6)
+
 <h1 align="center">Hi 👋, I'm Nahida Athanikar Nadaf</h1>
 <h3 align="center">A passionate Full-stack developer (MERN Stack) from India</h3>
 
