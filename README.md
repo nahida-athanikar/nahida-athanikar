@@ -1,4 +1,4 @@
-![banner](<img width="1278" height="385" alt="linkedin_background_nahida" src="https://github.com/user-attachments/assets/8e4523a5-d443-4d9d-b50c-cf1a7e0b4ed1" />)
+![banner](https://github.com/user-attachments/assets/8e4523a5-d443-4d9d-b50c-cf1a7e0b4ed1)
 
 <h1 align="center">Hi 👋, I'm Nahida Athanikar Nadaf</h1>
 
