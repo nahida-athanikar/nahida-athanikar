@@ -1,33 +1,152 @@
-![1741442365859](https://github.com/user-attachments/assets/9350ef6b-bafd-4397-b498-9b8a2a68aae6)
+![banner](https://github.com/Tanu882/Tanu882/blob/main/Linkedin_background.png)
 
 <h1 align="center">Hi 👋, I'm Nahida Athanikar Nadaf</h1>
-<h3 align="center">A passionate Full-stack developer (MERN Stack) from India</h3>
 
-<img align="right" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif" alt="coding" width="400">
-
-- 🔭 I’m a final year student(Graduate 2026) and I'm working on **Car MarketPlace**
-
-- 🌱 I’m currently learning **React, AI**
-
-- 👯 I’m looking to collaborate on **Real Word Project**
-
-- 🤝 I’m looking for help with **Open Source Project**
-
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 💬 Ask me about **MERN, Animation**
-
-- 📫 How to reach me **nahidathanikar18@gmail.com**
-
-- 📄 Know about my experiences [Web Developer Intern at InternPe.](Web Developer Intern at InternPe.)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nahida-athanikar-nadaf-a0152028b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahida-athanikar-nadaf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nahida_athanikar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahida_athanikar18" height="30" width="40" /></a>
+<p align="center">
+  Full Stack Developer (MERN) • DSA Enthusiast
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahida-athanikar&show_icons=true&locale=en&layout=compact" alt="nahida-athanikar" /></p>
+<p align="center">
+  📫 <a href="mailto:nahidathanikar24@gmail.com">Email</a> • 
+  💼 <a href="https://www.linkedin.com/in/tanu-yadav-693a1a261/">LinkedIn</a> • 
+  🌐 <a href="https://inspiring-tanuki-bcfbb5.netlify.app/">Portfolio</a>
+</p>
+
+
+
+
+---
+## 👋 Welcome
+
+I am **Tanu Yadav**, a Full Stack Developer specializing in the **MERN stack**, passionate about building scalable and efficient web applications using modern technologies like React, Node.js, MongoDB, and MySQL.
+
+Strong foundation in **Data Structures and Algorithms**, with a focus on writing efficient and optimized solutions.
+
+This page showcases the projects I’ve built — each reflecting my learning, experimentation, and commitment to writing better software.
+
+---
+
+## 📚 My Education
+
+🎓 **B.Tech in Information Technology (2026)**  
+*(Government Engineering College, Bilaspur, Chhattisgarh, India)*
+
+---
+
+## 🛠️ Technical Skills
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,tailwind,bootstrap,git,github,vscode" />
+
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>Python, JavaScript (ES6+)</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React.js, HTML, CSS, Tailwind CSS, Bootstrap</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Express.js, REST APIs, JWT Authentication</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MongoDB, MySQL</td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td>Git, GitHub, VS Code, Chrome DevTools</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊  Projects & Work
+
+---
+
+### 🏠 [RentEase – Property Management Web Application](https://wandernest-w9b9.onrender.com/)
+
+***Tech: Bootstrap, Node.js, Express.js, MongoDB, Cloudinary, Mapbox***
+
+- Developed a platform for **property rental management** with listing and review features  
+- Built a **responsive user interface** for seamless mobile and desktop experience  
+- Implemented an **authentication system** using Passport.js (Local + OAuth)  
+- Integrated **Cloudinary (image uploads)** and **Mapbox (location services)**  
+- Designed backend using **MVC architecture** and **REST APIs**  
+
+---
+
+### 🚗 [RK Motors - (AI-Powered) Car Marketplace](https://rk-motors-blond.vercel.app/)
+
+***Tech: React (Vite), Tailwind CSS, Clerk, Supabase, Gemini API***
+
+- Built a **full-stack marketplace platform** for vehicle listings and user interaction  
+- Integrated **Gemini API** to generate AI-based vehicle descriptions and listings  
+- Implemented **secure authentication** using Clerk (Google & Email/Password)  
+- Used **Supabase (database & backend services)** for scalable data management  
+- Added **real-time communication** via WhatsApp integration and AI chatbot  
+
+---
+
+### 🌐 [Tanu’s Portfolio](https://inspiring-tanuki-bcfbb5.netlify.app/)
+
+***Tech: React.js, Tailwind CSS***
+
+- Developed a **personal portfolio website** to showcase projects and skills  
+- Designed a **clean and responsive UI** using component-based architecture  
+- Organized content with a **structured layout** for projects, skills, and contact information   
+
+---
+
+### 🧠 [CodeLens AI – Intelligent Code Reviewer](https://ai-code-reviewer-six-rho.vercel.app/)
+
+***Tech: React.js, Tailwind CSS, Gemini API***
+
+- Built an **AI-based code analysis tool** to evaluate and improve code quality  
+- Integrated **Gemini API** to detect bugs and suggest optimizations  
+- Applied **prompt engineering techniques** to enhance response accuracy  
+- Reduced **manual code review effort** through automated analysis  
+
+---
+
+## ⚡ Development Insights
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanu882&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu882&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Tanu882&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanu882&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+💻 Always building • 🚀 Always learning  
+
+⭐ If you like my work, consider starring my repositories.
