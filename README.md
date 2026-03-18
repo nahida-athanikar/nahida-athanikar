@@ -9,8 +9,8 @@
 
 <p align="center">
   📫 <a href="mailto:nahidathanikar24@gmail.com">Email</a> • 
-  💼 <a href="https://www.linkedin.com/in/tanu-yadav-693a1a261/">LinkedIn</a> • 
-  🌐 <a href="https://inspiring-tanuki-bcfbb5.netlify.app/">Portfolio</a>
+  💼 <a href="https://www.linkedin.com/in/nahida-athanikar-nadaf-a0152028b/">LinkedIn</a> • 
+  🌐 <a href="https://nahida-athanikar-potfolio.netlify.app/">Portfolio</a>
 </p>
 
 
