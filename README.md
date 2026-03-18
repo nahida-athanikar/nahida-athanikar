@@ -106,9 +106,9 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 
 ---
 
-### 🌐 [Tanu’s Portfolio](https://inspiring-tanuki-bcfbb5.netlify.app/)
+### 🌐 [Nahida’s Portfolio](https://nahida-athanikar-potfolio.netlify.app/)
 
-***Tech: React.js, Tailwind CSS***
+***Tech: React.js, Tailwind CSS, Animation***
 
 - Developed a **personal portfolio website** to showcase projects and skills  
 - Designed a **clean and responsive UI** using component-based architecture  
