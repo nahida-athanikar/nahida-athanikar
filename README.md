@@ -19,7 +19,7 @@
 ---
 ## 👋 Welcome
 
-I am **Tanu Yadav**, a Full Stack Developer specializing in the **MERN stack**, passionate about building scalable and efficient web applications using modern technologies like React, Node.js, MongoDB, and MySQL.
+I am **Nahida Athanikar Nadaf**, a Full Stack Developer specializing in the **MERN stack**, passionate about building scalable and efficient web applications using modern technologies like React, Node.js, MongoDB, and MySQL.
 
 Strong foundation in **Data Structures and Algorithms**, with a focus on writing efficient and optimized solutions.
 
@@ -30,7 +30,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 ## 📚 My Education
 
 🎓 **B.Tech in Information Technology (2026)**  
-*(Government Engineering College, Bilaspur, Chhattisgarh, India)*
+*(Sanjeevan Group of Institution, Panhala, Kolhapur, Maharashtra)*
 
 ---
 
@@ -68,6 +68,10 @@ This page showcases the projects I’ve built — each reflecting my learning, e
     <td>Tools</td>
     <td>Git, GitHub, VS Code, Chrome DevTools</td>
   </tr>
+  <tr>
+    <td>AI API and Tools</td>
+    <td>Gemini API, ChatGPT, Cursor, Gemini</td>
+  </tr>
 </table>
 
 </div>
@@ -78,7 +82,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 
 ---
 
-### 🏠 [RentEase – Property Management Web Application](https://wandernest-w9b9.onrender.com/)
+### 🏠 [WanderNest – Property Management Web Application](https://wandernest-w9b9.onrender.com/)
 
 ***Tech: Bootstrap, Node.js, Express.js, MongoDB, Cloudinary, Mapbox***
 
