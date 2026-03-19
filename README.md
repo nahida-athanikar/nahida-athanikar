@@ -106,6 +106,18 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 
 ---
 
+### 🧭 [Smart Route Optimizer](https://smart-route-optimizer.onrender.com/)
+
+***Tech: Python, Data Structures & Algorithms, NetworkX, Matplotlib***
+
+- Developed a **route optimization system** using **Dijkstra’s Algorithm** to compute shortest paths in weighted graphs
+- Optimized performance using **priority queues** and **adjacency lists** for efficient **graph traversal**  
+- **Visualized graph structures** and shortest paths using **NetworkX** and **Matplotlib** 
+- Built **CLI** and **web-based interfaces** for interactive user input and route analysis  
+- Designed a scalable and efficient solution for real-world navigation and pathfinding problems
+
+---
+
 ### 🌐 [Nahida’s Portfolio](https://nahida-athanikar-potfolio.netlify.app/)
 
 ***Tech: React.js, Tailwind CSS, Animation***
