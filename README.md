@@ -157,7 +157,7 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanu882&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahida-athanikar&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
