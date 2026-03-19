@@ -143,9 +143,9 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nahida-athanikar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nahida-athanikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahida-athanikar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nahida-athanikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
 
 </p>
 
