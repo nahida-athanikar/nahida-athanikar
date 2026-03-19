@@ -145,13 +145,13 @@ This page showcases the projects I’ve built — each reflecting my learning, e
 
   <img src="https://github-readme-stats.vercel.app/api?username=nahida-athanikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nahida-athanikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahida-athanikar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </p>
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?username=nahida-athanikar&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=nahida-athanikar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -160,6 +160,9 @@ This page showcases the projects I’ve built — each reflecting my learning, e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahida-athanikar&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
 
 ---
 
